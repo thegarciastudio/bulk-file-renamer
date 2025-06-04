@@ -10,6 +10,10 @@ Este es un script en Python que renombra archivos por lotes en una carpeta usand
 
 ---
 
+## BUY
+[![Buy on Gumroad](https://img.shields.io/badge/Buy%20on-Gumroad-orange?style=for-the-badge&logo=gumroad)](https://garciaantonio.gumroad.com/l/xbazg)
+
+
 ## How to Use
 
 1. nstall dependencies  
@@ -68,5 +72,4 @@ MIT License. You’re free to use, modify, and share it.
 Licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
 
 ## Author
-Created by @thegarciastudio
-Creado por @thegarciastudio# bulk-file-renamer
+Created by @thegarciastudio Creado por @thegarciastudio# bulk-file-renamer
