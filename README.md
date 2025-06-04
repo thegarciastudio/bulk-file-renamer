@@ -72,4 +72,6 @@ MIT License. You’re free to use, modify, and share it.
 Licencia MIT. Puedes usarlo, modificarlo y compartirlo libremente.
 
 ## Author
-Created by @thegarciastudio Creado por @thegarciastudio# bulk-file-renamer
+Created by @thegarciastudio 
+
+Creado por @thegarciastudio# bulk-file-renamer
